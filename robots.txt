@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://usevolush.github.io/sitemap.html.gz
+Sitemap: https://usevolush.github.io/app/sitemap.html.gz
+Sitemap: https://usevolush.github.io/assets/sitemap.html.gz
+Sitemap: https://usevolush.github.io/css/sitemap.html.gz
+Sitemap: https://usevolush.github.io/data/sitemap.html.gz
+Sitemap: https://usevolush.github.io/includes/sitemap.html.gz
+Sitemap: https://usevolush.github.io/item/sitemap.html.gz
+Sitemap: https://usevolush.github.io/src/sitemap.html.gz
